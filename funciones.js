@@ -9,7 +9,8 @@ const calculoEdad = (edad) => {
 }
 calculoEdad(edad);
  */
-const num = prompt("Dia de la semana");
+
+/* const num = prompt("Dia de la semana");
 
 const dia = (num) => {
     if(num == 1){console.log("es Lunes");}
@@ -21,4 +22,4 @@ const dia = (num) => {
     if(num == 7){console.log("es Domingo");}
     else {console.log("no es un numero de la semana");}
 }
-dia(num);
+dia(num); */

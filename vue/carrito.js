@@ -3,8 +3,9 @@ Vue.createApp({
         return{
             productos:[],               
                 nombre: "",
-                precio: 0,
-                cantidad:0
+                precio: '',
+                cantidad:'',
+                colortable: 'success'
                 
             
         }
